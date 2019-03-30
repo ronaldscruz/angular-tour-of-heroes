@@ -10,5 +10,5 @@ the Tour of Heroes project covers the fundamentals of angular
 - [x] Format data with pipes.
 - [x] Create a shared service to assemble the heroes.
 - [x] Use routing to navigate among different views and their components.
-- [ ] HTTP
+- [x] HTTP
  
