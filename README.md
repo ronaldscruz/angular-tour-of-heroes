@@ -1,7 +1,7 @@
 # angular-tour-of-heroes
 the Tour of Heroes project covers the fundamentals of angular
 
-![alt text](https://raw.githubusercontent.com/ronaldscruz/angular-tour-of-heroes/master/ss.png)
+![alt text](https://raw.githubusercontent.com/ronaldscruz/angular-tour-of-heroes/master/ss1.png)
 ![alt text](https://raw.githubusercontent.com/ronaldscruz/angular-tour-of-heroes/master/ss2.png)
 
 - [x] Use built-in Angular directives to show and hide elements and display lists of hero data.
